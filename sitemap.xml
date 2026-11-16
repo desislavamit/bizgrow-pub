@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<url>
+<loc>https://bizgrow.example/</loc>
+<xhtml:link rel="alternate" hreflang="bg" href="https://bizgrow.example/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://bizgrow.example/en/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://bizgrow.example/" />
+</url>
+<url>
+<loc>https://bizgrow.example/en/</loc>
+<xhtml:link rel="alternate" hreflang="bg" href="https://bizgrow.example/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://bizgrow.example/en/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://bizgrow.example/" />
+</url>
+<url>
+<loc>https://bizgrow.example/ai-asistent/</loc>
+<lastmod>2026-11-15</lastmod>
+</url>
+<url>
+<loc>https://bizgrow.example/avtomatizacii/</loc>
+<lastmod>2026-11-15</lastmod>
+</url>
+<url>
+<loc>https://bizgrow.example/izrabotka-na-sait/</loc>
+<lastmod>2026-11-15</lastmod>
+</url>
+<url>
+<loc>https://bizgrow.example/izrabotka-na-onlain-magazin/</loc>
+<lastmod>2026-11-15</lastmod>
+</url>
+<url>
+<loc>https://bizgrow.example/seo-optimizacia/</loc>
+<lastmod>2026-11-15</lastmod>
+</url>
+<url>
+<loc>https://bizgrow.example/seo-statii/</loc>
+<lastmod>2026-11-15</lastmod>
+</url>
+<url>
+<loc>https://bizgrow.example/socialni-mrezhi/</loc>
+<lastmod>2026-11-15</lastmod>
+</url>
+<url>
+<loc>https://bizgrow.example/reklama/</loc>
+<lastmod>2026-11-15</lastmod>
+</url>
+<url>
+<loc>https://bizgrow.example/reklama-vav-facebook/</loc>
+<lastmod>2026-11-15</lastmod>
+</url>
+<url>
+<loc>https://bizgrow.example/diagnostika/</loc>
+<lastmod>2026-11-15</lastmod>
+</url>
+<url>
+<loc>https://bizgrow.example/saveti/</loc>
+<lastmod>2026-11-15</lastmod>
+</url>
+<url>
+<loc>https://bizgrow.example/saveti/kakvo-pravi-kopiraytar/</loc>
+<lastmod>2026-11-15</lastmod>
+</url>
+<url>
+<loc>https://bizgrow.example/saveti/google-biznes-profil/</loc>
+<lastmod>2026-11-15</lastmod>
+</url>
+<url>
+<loc>https://bizgrow.example/saveti/klyuchovi-dumi/</loc>
+<lastmod>2026-11-15</lastmod>
+</url>
+</urlset>
